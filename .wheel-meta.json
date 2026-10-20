@@ -1,0 +1,22 @@
+{
+  "wheel_id": 481,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-105",
+  "project": "fencing-contractors-toowoomba-common-mistakes-b7de223160df28e7b",
+  "parent_t1_ref": "fencingtoowoomba-152",
+  "node_role": "feeder",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba common mistakes",
+  "intended_url": "https://sites-e470-2.web.app/fencing-contractors-toowoomba-common-mistakes-b7de223160df28e7b/",
+  "tier": "T2",
+  "writeback_nonce": "d5a1174ca1160a79",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-suburb-guide-293c2d98fed79498c06b/",
+      "anchor": "the fencing contractors toowoomba suburb guide overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
